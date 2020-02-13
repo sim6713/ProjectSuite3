@@ -4,13 +4,13 @@
 	<testData />
 	<data />
 	<children>
-		<child key="{EC173151-B99A-4FB3-8E8C-AAA0E2A687DE}">
+		<child key="{77342290-6336-49EF-BA12-426B9206A2FF}">
 			<config nodeName="TestTD32" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="True">
 				<runModeParams activeRunMode="Simple">
 					<param name="RunAs" parameters="" workFolder="" userName="" password="" domain="" />
 					<param name="Profile" parameters="" workFolder="" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
 					<param name="Debug" parameters="" workFolder="" />
-					<param name="Simple" fileName="TestEnvironment(TD32).exe" filePath="..\..\" parameters="" workFolder="" />
+					<param name="Simple" fileName="TestEnvironment(TD32).exe" filePath="" parameters="" workFolder="" />
 				</runModeParams>
 			</config>
 			<testData />
