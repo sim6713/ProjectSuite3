@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{8592A08A-E988-4636-BE26-35FAD1856B3C}">
 	<children>
-		<child name="Test3" key="{9C4D4F43-106A-4B8D-A5DE-2D45DAEC29E4}" path="Test1\Test3.mds" />
+		<child name="Test3" key="{9C4D4F43-106A-4B8D-A5DE-2D45DAEC29E4}" path="Test3\Test3.mds" />
 	</children>
 	<testItems key="{B8AAEFD2-22DB-417B-9B53-9BFB2E0FEE4B}">
 		<children>
